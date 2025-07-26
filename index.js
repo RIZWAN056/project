@@ -49,6 +49,7 @@ function onPressLogo() {
     }
 }
 
+
 // function onPressLogo() {
 //     let leftDiv = document.getElementsByClassName("left");
 //     let rightDiv = document.getElementsByClassName("right");
